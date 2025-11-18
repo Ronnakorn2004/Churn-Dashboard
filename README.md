@@ -15,7 +15,7 @@ Analyze customer data from a retail bank to identify key factors driving custome
 ---
 
 ### **3.) 📊 Dashboard Description**
-- This Power BI dashboard visualizes bank customer churn analysis using data from 10,000 customers.
+- This Power BI dashboard visualizes bank customer churn analysis using data from **10,000 customers**.
 - It helps identify which customer groups are most likely to leave the bank, and what demographic or behavioral factors influence churn.
 
 ---
